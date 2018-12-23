@@ -1,0 +1,12 @@
+p {
+    font-family: Arial;
+  color: blue;
+  }
+h1{
+color: maroon;
+}
+
+.title {
+      color: teal;
+}
+/*  Added class attribute.  h1 attribute is overridden */
