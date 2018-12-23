@@ -106,11 +106,11 @@ a.home {
 /* Font Card Sections */
 
 .garamond .sample .text {
-   font: "Garamond", serif;
+   font-family: "Garamond", serif;
 }
 
 .helvetica .sample .text {
-    font: "Helvetica", sans-serif;
+    font-family: "Helvetica", sans-serif;
   }
 
 .font-card {
