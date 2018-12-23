@@ -1,4 +1,4 @@
-body {
+body {body {
   background-color: #FFF;
   margin: 0 auto;
 }
@@ -99,6 +99,7 @@ footer {
 .answer {
   border: 1px solid #466995;
   margin: 20px;
+  display: inline-block;
 }
 
 .answer:hover {
