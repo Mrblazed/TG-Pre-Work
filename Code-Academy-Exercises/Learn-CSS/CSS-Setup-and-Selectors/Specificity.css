@@ -1,0 +1,29 @@
+p {
+    font-family: Arial;
+  color: blue;
+  }
+h1{
+color: maroon;
+}
+
+.title {
+      color: teal;
+}
+
+.uppercase {
+          text-transform: uppercase;
+}
+
+
+.publish-time {
+             color: gray;
+}
+
+.cursive {
+        font-family: cursive;
+}
+
+.capitalize {
+          text-transform: capitalize;
+}
+/* Added cursive and capitalize classes to CSS and added them to the HTML document */
