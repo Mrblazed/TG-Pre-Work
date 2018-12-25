@@ -12,4 +12,4 @@ console.log("And if you don't know, now you know.");
 
 
 
-//  Used break to stop the loop.  Lesson was not clearly defined and wasn't sure what  they wanted accomplished until I looked at their solution
+//  Took me a while to understand what they wanted, but made sense when I looked at their solution
